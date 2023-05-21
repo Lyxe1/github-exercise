@@ -1,0 +1,28 @@
+h1 {
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    margin: auto;
+}
+h2 {
+    background-color: turquoise;
+    width: 50%;
+}
+img {
+    width: 40%;
+    max-width: 60%;
+    height: 40%;
+    max-height: 60%;
+    border: 10px solid pink;
+    margin: 0 auto; 
+}
+ul {
+    max-width: 300%;
+}
+div {
+    box-sizing: border-box;
+    width: 20px;
+    padding: 1em;
+    border: solid 5px red;
+}
